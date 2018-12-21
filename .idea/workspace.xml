@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6589d62c-06ee-4102-a789-581560e427e7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/pytho-jc.py" beforeDir="false" afterPath="$PROJECT_DIR$/learn/pytho-jc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -175,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545297306743</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="213">
+      <created>1545385978306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545385978306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -183,7 +189,7 @@
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4975669" side_tool="true" weight="0.31434184" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4975669" side_tool="true" weight="0.44793713" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.50243306" weight="0.5618861" />
       <window_info anchor="bottom" id="Python Console" order="7" />
