@@ -22,7 +22,7 @@ print("\nlanguages:\nc\npython\nJava")
 print(test2.strip())
 print("\n")
 
-import this
+# import this
 
 list_test = ['test1', 'test2', 'test3', 'test4', 'test5']
 print(list_test[0].title())
