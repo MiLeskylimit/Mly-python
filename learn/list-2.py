@@ -50,3 +50,33 @@ print("\033[1;31m--------------------------------\033[0m")
 # 切片
 num = list(range(1,14))
 print(num[-1:])
+
+# 遍历切片
+
+players = ['jemase', 'lilade', 'baoluo.qiaozhi','weide']
+for player in players[:3]:
+    print(player.title())
+
+# 复制列表
+players_copy = players[:]
+print(players)
+
+print("\033[1;31m----------------------------------------------\033[0m")
+# 元祖
+tuple_test = (1,2,3,4,5,6)
+print(tuple_test[3])
+
+word = 'Abc'
+print(word.lower() == 'abc')
+
+car = 'audi'
+if car == 'audi':
+    print("Is car == 'audi'? True")
+else:
+    print("Is car == 'audi'? Flase")
+
+cars = ["aodi","BMW","Aotuo","dazhou","hafo"]
+if 'bmw' in cars:
+    print(True)
+else:
+    print(False)
