@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6589d62c-06ee-4102-a789-581560e427e7" name="Default" comment="213">
-      <change afterPath="$PROJECT_DIR$/learn/dict_1.py" afterDir="false" />
+    <list default="true" id="6589d62c-06ee-4102-a789-581560e427e7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn/dict.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,19 +12,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Mly_python$while.coverage" NAME="while Coverage Results" MODIFIED="1547014675914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/Mly_python$if__3.coverage" NAME="if-.3 Coverage Results" MODIFIED="1546418418556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/Mly_python$dict.coverage" NAME="dict Coverage Results" MODIFIED="1546585922791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/Mly_python$dict_1.coverage" NAME="dict_1 Coverage Results" MODIFIED="1547014291833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/Mly_python$pytho_jc.coverage" NAME="pytho-jc Coverage Results" MODIFIED="1545795462786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
     <SUITE FILE_PATH="coverage/Mly_python$list_2.coverage" NAME="list-2 Coverage Results" MODIFIED="1546405884848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
-    <SUITE FILE_PATH="coverage/Mly_python$dict_2.coverage" NAME="dict_2 Coverage Results" MODIFIED="1546586095273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
+    <SUITE FILE_PATH="coverage/Mly_python$dict_2.coverage" NAME="dict_2 Coverage Results" MODIFIED="1547014649121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dict_2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn/dict_2.py">
+      <file leaf-file-name="while.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learn/while.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="25">
+              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -55,6 +55,7 @@
         <option value="$PROJECT_DIR$/learn/if-.3.py" />
         <option value="$PROJECT_DIR$/learn/dict.py" />
         <option value="$PROJECT_DIR$/learn/dict_2.py" />
+        <option value="$PROJECT_DIR$/learn/while.py" />
       </list>
     </option>
   </component>
@@ -68,8 +69,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="524" />
-    <option name="y" value="59" />
+    <option name="x" value="373" />
+    <option name="y" value="30" />
     <option name="width" value="838" />
     <option name="height" value="741" />
   </component>
@@ -122,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict_2">
+  <component name="RunManager" selected="Python.while">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python">
       <module name="Mly-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,6 +138,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="F:\Mly-python\learn\dict_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="dict_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Mly-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/dict_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +219,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="pytho-jc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Mly-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +232,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/pytho-jc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn/while.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,17 +240,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.dict" />
-      <item itemvalue="Python.pytho-jc" />
       <item itemvalue="Python.list-2" />
       <item itemvalue="Python.if-.3" />
       <item itemvalue="Python.dict_2" />
+      <item itemvalue="Python.dict_1" />
+      <item itemvalue="Python.while" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.while" />
         <item itemvalue="Python.dict_2" />
+        <item itemvalue="Python.dict_1" />
         <item itemvalue="Python.if-.3" />
         <item itemvalue="Python.list-2" />
-        <item itemvalue="Python.pytho-jc" />
       </list>
     </recent_temporary>
   </component>
@@ -322,23 +344,29 @@
       <option name="project" value="LOCAL" />
       <updated>1546418116098</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="213">
+      <created>1546587344662</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546587344662</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="426" y="60" width="838" height="741" extended-state="0" />
+    <frame x="373" y="30" width="838" height="741" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50069445" side_tool="true" weight="0.26675427" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.50243306" weight="0.5618861" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49930555" weight="0.3981603" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.796837" visible="true" weight="0.27635783" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.796837" visible="true" weight="0.24920128" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.44160584" weight="0.32612967" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17883211" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12287105" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -349,6 +377,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32941177" />
     </layout>
   </component>
@@ -399,6 +428,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="213" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/learn/dict_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1675">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dict_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn/dict_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
@@ -483,17 +526,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn/dict_1.py">
+    <entry file="file://$PROJECT_DIR$/venv/Scripts/easy_install-3.7-script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        <state relative-caret-position="250">
+          <caret line="12" selection-start-line="10" selection-start-column="32" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/learn/dict_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="95">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/dict_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn/while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
