@@ -1,4 +1,5 @@
 '''
+# input use
 message = input("Tell me something, and I will repeat it back to you: ")
 print(message)
 
@@ -31,10 +32,63 @@ if person > 8:
 else:
     print("Please be seated.")
 '''
+'''
 numb = input("Please input a number:  ")
 numbs = int(numb) % 10
 if  numbs == 0:
     print("是10的整倍数")
 else:
     print("不是10的整倍数")
+'''
+'''
+# while
+while_numb = 1
+while while_numb <= 5:
+    print(while_numb)
+    while_numb += 1
+'''
+'''
+prompt = "\nTell me something, and I will repeat it back to you:"
+prompt += "\nEnter 'quit' to end the program. "
+
+messges = ""
+while messges != 'quit':
+    messges = input(prompt)
+    if messges != 'quit':
+        print(messges)
+'''
+'''
+# break use
+active = True
+while active:
+    messges = input(prompt)
+    if messges == "quit":
+        break
+    else:
+        print(messges)
+'''
+'''
+# continue use
+current_numb = 0
+while current_numb <10:
+    current_numb += 1
+    if current_numb % 2 == 0:
+        continue
+    print(current_numb)
+'''
+# list
+
+part = "\nHello,Please input pizz parts:  "
+parts = ""
+while parts != 'quit':
+    parts = input(part)
+    if parts != 'quit':
+        print("你的pizz中有" + parts)
+
+
+
+
+
+
+
 
