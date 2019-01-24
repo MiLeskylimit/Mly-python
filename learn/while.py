@@ -77,13 +77,32 @@ while current_numb <10:
     print(current_numb)
 '''
 # list
-
+'''
 part = "\nHello,Please input pizz parts:  "
 parts = ""
 while parts != 'quit':
     parts = input(part)
     if parts != 'quit':
         print("你的pizz中有" + parts)
+'''
+'''
+moves = "1"
+while moves != "":
+    move = input("Hello,Please input your years:  ")
+    moves = int(move)
+    if moves < 3 :
+        print("请免费观看")
+        continue
+    if moves >= 3 and moves <= 12 :
+        print("您的票价为10美元")
+        continue
+    if moves > 12 :
+        print("您的票价为15美元")
+        continue
+    if move = "quit":
+        break
+
+'''
 
 
 
